@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">AgriExpert</string>
+    <string name="action_settings" translatable="false">Log Out</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
